@@ -30,3 +30,5 @@ bin/
 
 .idea
 /.idea/
+input.txt
+output.txt
